@@ -1,5 +1,5 @@
 # DSI321
-DSI321_2021 Project /n
+DSI321_2021 Project 
 
 Project References
 Air Quality Index (AQI): https://en.wikipedia.org/wiki/Air_quality_index
