@@ -1,0 +1,20 @@
+{
+  "name": "weather_twl03",
+  "title": "WEATHER_TWL03",
+  "notes": "ข้อมูลรายงานผลการตรวจวัดคุณภาพอากาศของแต่ละจังหวัดในประเทศไทยที่ทำการบันทึกผลทุก ๆ 6 ชั่วโมง",
+  "data_type": "ข้อมูลภูมิสารสนเทศเชิงพื้นที่",
+  "owner_org": "tu", 
+  "data_source": "IQAir: https://api-docs.iqair.com/",
+  "maintainer": "-",
+  "update_frequency_unit": "ชั่วโมง",
+  "data_format": [
+    "CSV"
+  ],
+  "maintainer_email": "thananat.jir@gmail.com",
+  "objective": [
+    "เพื่อการให้บริการประชาชน"
+  ],
+  "data_category": "ข้อมูลสาธารณะ",
+  "geo_coverage": "จังหวัด",
+  "license_id": "License not specified"
+}
